@@ -1,2 +1,2 @@
-# math_physics_simulations
-Collection of some simulations in Python, including the Heat Equation simulation 
+# Simulations in Python
+Collection of some physics-related simulations in Python, including the Heat Equation simulation 
